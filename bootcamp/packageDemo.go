@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-examples/sample-program/api"
+	"go-examples/bootcamp/api"
 )
 
 func main() {

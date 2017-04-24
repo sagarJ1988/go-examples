@@ -2,7 +2,7 @@ package api
 
 import (
 	"fmt"
-	"go-examples/sample-program/rest"
+	"go-examples/bootcamp/rest"
 )
 
 type Player struct {
