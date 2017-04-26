@@ -1,7 +1,9 @@
 package main
 
-import "time"
-import "fmt"
+import (
+	"fmt"
+	"time"
+)
 
 type Bootcamp struct {
 	Lat, Lon float64
