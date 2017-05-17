@@ -44,5 +44,4 @@ func main() {
 	me1 := &Artist{Name: "ABC", Genre: "Electro", Songs: 42}
 	fmt.Printf("%s released their %dth song\n", me1.Name, newRelease1(me1))
 	fmt.Printf("%s has a total of %d songs\n", me1.Name, me1.Songs)
-
 }

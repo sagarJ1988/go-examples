@@ -8,7 +8,7 @@ import (
 func main() {
 	fmt.Println("variable declaration")
 	variablesDec()
-	fmt.Println("constant declaration")
+	fmt.Println("\nconstant declaration")
 	constants()
 	fmt.Println("variables and constant print")
 	varConstPrint()
@@ -60,7 +60,7 @@ func variablesDec() {
 func constants() {
 	/*
 		constants are immutable
-	 */
+	*/
 	const (
 		Pi    = 3.14
 		Truth = false
